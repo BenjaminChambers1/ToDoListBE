@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "todolistbe-executor",
+    "name": "todolistbe",
+    "region": "eu-west-2"
+  },
+  "api": {
+    "id": "ic2pqd24cc"
+  }
+}
